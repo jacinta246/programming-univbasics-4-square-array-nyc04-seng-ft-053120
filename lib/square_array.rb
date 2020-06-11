@@ -1,3 +1,3 @@
 def square_array(array)
-   array** do
+   while array** do
 end
