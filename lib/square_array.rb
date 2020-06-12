@@ -1,5 +1,5 @@
 def square_array(array)
-  count = 2
+  count = 3
    while count < array.length do
      array[count]**
      count += 1
